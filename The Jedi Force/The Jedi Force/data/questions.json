@@ -1,0 +1,730 @@
+{
+    "Русский язык": [
+        {
+            "question": "В каком слове допущена ошибка в постановке ударения?",
+            "options": ["ТОрты", "БалОвать", "КаталОг", "ЖалюзИ"],
+            "answer": "Баловать"
+        },
+        {
+            "question": "В каком предложении выделенное слово пишется слитно?",
+            "options": ["(В)виду плохой погоды мы остались дома.", "Он шёл (на)встречу ветру.", "(В)следствие ошибки документ был отклонён.", "(В)течение дня погода изменилась."],
+            "answer": "(В)следствие ошибки документ был отклонён."
+        },
+        {
+            "question": "В каком ряду во всех словах пропущена безударная проверяемая гласная в корне?",
+            "options": ["Заг..рать, пок..зать, прим..рять (друзей)", "Скр..пучий, зам..рать, к..сательная", "Разв..вать, прим..рять (одежду), г..ристый", "Осв..щение, зам..чать, к..саться"],
+            "answer": "Осв..щение, зам..чать, к..саться"
+        },
+        {
+            "question": "В каком предложении НЕ со словом пишется раздельно?",
+            "options": ["Это (не)известный автор.", "Он (не)доумевал, глядя на происходящее.", "Задача оказалась (не)решённой.", "Это (не)правда, а вымысел."],
+            "answer": "Это (не)правда, а вымысел."
+        },
+        {
+            "question": "В каком слове на месте пропуска пишется буква Е?",
+            "options": ["Услыш..шь", "Кол..шь", "Вер..шь", "Смотр..шь"],
+            "answer": "Вер..шь"
+        },
+        {
+            "question": "В каком предложении допущена грамматическая ошибка?",
+            "options": ["Благодаря усилиям команды, проект был завершён вовремя.", "По приезду в город мы сразу отправились на экскурсию.", "Вопреки прогнозам, погода была отличной.", "Согласно расписанию, поезд отправляется в 8 утра."],
+            "answer": "По приезду в город мы сразу отправились на экскурсию."
+        },
+        {
+            "question": "В каком предложении нужно поставить одну запятую?",
+            "options": ["Солнце светило ярко и грело землю.", "Ветер дул с севера и принёс с собой холод.", "Он взял книгу и начал читать.", "Мы купили яблоки груши и сливы."],
+            "answer": "Мы купили яблоки груши и сливы."
+        },
+        {
+            "question": "В каком слове пишется НН?",
+            "options": ["Серебря..ый", "Ветре..ый", "Лома..ый", "Нежда..ый"],
+            "answer": "Нежда..ый"
+        },
+        {
+            "question": "В каком предложении выделенное слово является вводным?",
+            "options": ["Он (казалось) был очень удивлён.", "(Казалось) бы, всё просто.", "Ребёнок (казалось) устал.", "(Казалось) бы, он не заметил нас."],
+            "answer": "Он (казалось) был очень удивлён."
+        },
+        {
+            "question": "В каком предложении нарушены нормы лексической сочетаемости?",
+            "options": ["Он играл важную роль в этом проекте.", "Она оказала сильное влияние на его решение.", "Этот фильм имеет большое значение для меня.", "Он одержал поражение в соревнованиях."],
+                "answer": "Он одержал поражение в соревнованиях"
+        }
+    ],
+    "Математика": [
+        {
+            "question": "Чему равен квадратный корень из 64?",
+            "options": ["4", "6", "8", "10"],
+            "answer": "8"
+        },
+        {
+            "question": "Решите уравнение: 2x + 3 = 11.",
+            "options": ["2", "4", "6", "8"],
+            "answer": "4"
+        },
+        {
+            "question": "Чему равна сумма углов треугольника?",
+            "options": ["90°", "180°", "270°", "360°"],
+            "answer": "180°"
+        },
+        {
+            "question": "Какое число является простым?",
+            "options": ["4", "6", "7", "8"],
+            "answer": "7"
+        },
+        {
+            "question": "Чему равно значение выражения 5! (факториал)?",
+            "options": ["20", "60", "120", "720"],
+            "answer": "120"
+        },
+        {
+            "question": "Какая формула описывает площадь круга?",
+            "options": ["S = a²", "S = πr²", "S = ab", "S = 2πr"],
+            "answer": "S = πr²"
+        },
+        {
+            "question": "Чему равно значение sin(90°)?",
+            "options": ["0", "0.5", "1", "2"],
+            "answer": "1"
+        },
+        {
+            "question": "Какое число является наименьшим общим кратным (НОК) для 4 и 6?",
+            "options": ["12", "24", "36", "48"],
+            "answer": "12"
+        },
+        {
+            "question": "Чему равно значение log₁₀100?",
+            "options": ["1", "2", "10", "100"],
+            "answer": "2"
+        },
+        {
+            "question": "Какое из этих чисел является иррациональным?",
+            "options": ["√4", "√9", "√2", "√16"],
+            "answer": "√2"
+        }
+    ],
+    "Физика": [
+        {
+            "question": "Какой закон описывает силу всемирного тяготения?",
+            "options": ["Закон Ома", "Закон Ньютона", "Закон Архимеда", "Закон Кулона"],
+            "answer": "Закон Ньютона"
+        },
+        {
+            "question": "Что измеряется в джоулях?",
+            "options": ["Сила", "Энергия", "Мощность", "Напряжение"],
+            "answer": "Энергия"
+        },
+        {
+            "question": "Какой прибор используется для измерения силы тока?",
+            "options": ["Вольтметр", "Амперметр", "Омметр", "Термометр"],
+            "answer": "Амперметр"
+        },
+        {
+            "question": "Что такое инерция?",
+            "options": ["Свойство тела сохранять скорость", "Сила, действующая на тело", "Энергия движения", "Сопротивление движению"],
+            "answer": "Свойство тела сохранять скорость"
+        },
+        {
+            "question": "Какой газ является основным компонентом атмосферы Земли?",
+            "options": ["Кислород", "Азот", "Углекислый газ", "Водород"],
+            "answer": "Азот"
+        },
+        {
+            "question": "Что такое фотоэффект?",
+            "options": ["Испускание электронов под действием света", "Поглощение света веществом", "Отражение света", "Преломление света"],
+            "answer": "Испускание электронов под действием света"
+        },
+        {
+            "question": "Какая единица измерения используется для силы?",
+            "options": ["Джоуль", "Ньютон", "Ватт", "Паскаль"],
+            "answer": "Ньютон"
+        },
+        {
+            "question": "Что такое кинетическая энергия?",
+            "options": ["Энергия движения", "Энергия положения", "Энергия тепла", "Энергия света"],
+            "answer": "Энергия движения"
+        },
+        {
+            "question": "Какой закон описывает сохранение энергии?",
+            "options": ["Закон Ома", "Закон Ньютона", "Закон сохранения энергии", "Закон Архимеда"],
+            "answer": "Закон сохранения энергии"
+        },
+        {
+            "question": "Что такое ускорение свободного падения на Земле?",
+            "options": ["9,8 м/с²", "10 м/с²", "6,67 м/с²", "5 м/с²"],
+            "answer": "9,8 м/с²"
+        }
+    ],
+    "Химия": [
+        {
+            "question": "Какой элемент обозначается символом 'H'?",
+            "options": ["Гелий", "Водород", "Кислород", "Азот"],
+            "answer": "Водород"
+        },
+        {
+            "question": "Какой газ поддерживает горение?",
+            "options": ["Азот", "Углекислый газ", "Кислород", "Водород"],
+            "answer": "Кислород"
+        },
+        {
+            "question": "Какой процесс называется окислением?",
+            "options": ["Присоединение кислорода", "Потеря кислорода", "Присоединение водорода", "Потеря электронов"],
+            "answer": "Присоединение кислорода"
+        },
+        {
+            "question": "Какая кислота содержится в желудочном соке?",
+            "options": ["Серная", "Соляная", "Азотная", "Уксусная"],
+            "answer": "Соляная"
+        },
+        {
+            "question": "Какой металл является самым легким?",
+            "options": ["Алюминий", "Железо", "Литий", "Золото"],
+            "answer": "Литий"
+        },
+        {
+            "question": "Что такое pH нейтрального раствора?",
+            "options": ["5", "7", "10", "14"],
+            "answer": "7"
+        },
+        {
+            "question": "Какой газ выделяется при реакции кислоты с металлом?",
+            "options": ["Кислород", "Азот", "Водород", "Углекислый газ"],
+            "answer": "Водород"
+        },
+        {
+            "question": "Какой процесс называется электролизом?",
+            "options": ["Разложение вещества под действием тока", "Соединение веществ", "Нагревание вещества", "Охлаждение вещества"],
+            "answer": "Разложение вещества под действием тока"
+        },
+        {
+            "question": "Какой элемент является основным компонентом алмаза?",
+            "options": ["Кислород", "Углерод", "Кремний", "Азот"],
+            "answer": "Углерод"
+        },
+        {
+            "question": "Какая формула у воды?",
+            "options": ["H₂O", "CO₂", "NH₃", "CH₄"],
+            "answer": "H₂O"
+        }
+    ],
+    "Биология": [
+        {
+            "question": "Какой орган отвечает за фильтрацию крови?",
+            "options": ["Сердце", "Печень", "Почки", "Легкие"],
+            "answer": "Почки"
+        },
+        {
+            "question": "Какое вещество является основным источником энергии для клеток?",
+            "options": ["Белки", "Жиры", "Углеводы", "Витамины"],
+            "answer": "Углеводы"
+        },
+        {
+            "question": "Какой процесс называется фотосинтезом?",
+            "options": ["Преобразование света в энергию", "Дыхание растений", "Поглощение воды", "Выделение кислорода"],
+            "answer": "Преобразование света в энергию"
+        },
+        {
+            "question": "Какой орган отвечает за дыхание у человека?",
+            "options": ["Сердце", "Печень", "Легкие", "Почки"],
+            "answer": "Легкие"
+        },
+        {
+            "question": "Какое животное является млекопитающим?",
+            "options": ["Крокодил", "Лягушка", "Кит", "Змея"],
+            "answer": "Кит"
+        },
+        {
+            "question": "Какой процесс называется митозом?",
+            "options": ["Деление клетки", "Обмен веществ", "Дыхание", "Фотосинтез"],
+            "answer": "Деление клетки"
+        },
+        {
+            "question": "Какой витамин синтезируется в коже под действием солнечного света?",
+            "options": ["Витамин A", "Витамин C", "Витамин D", "Витамин E"],
+            "answer": "Витамин D"
+        },
+        {
+            "question": "Какой орган отвечает за переваривание пищи?",
+            "options": ["Сердце", "Печень", "Желудок", "Легкие"],
+            "answer": "Желудок"
+        },
+        {
+            "question": "Какое растение является хищным?",
+            "options": ["Роза", "Ромашка", "Венерина мухоловка", "Кактус"],
+            "answer": "Венерина мухоловка"
+        },
+        {
+            "question": "Какой процесс называется дыханием?",
+            "options": ["Поглощение кислорода и выделение углекислого газа", "Поглощение углекислого газа и выделение кислорода", "Поглощение воды", "Поглощение света"],
+            "answer": "Поглощение кислорода и выделение углекислого газа"
+        }
+    ],
+    "История": [
+        {
+            "question": "В каком году началась Первая мировая война?",
+            "options": ["1914", "1917", "1939", "1941"],
+            "answer": "1914"
+        },
+        {
+            "question": "Кто был первым президентом России?",
+            "options": ["Владимир Ленин", "Борис Ельцин", "Михаил Горбачев", "Дмитрий Медведев"],
+            "answer": "Борис Ельцин"
+        },
+        {
+            "question": "Кто написал 'Капитал'?",
+            "options": ["Карл Маркс", "Фридрих Энгельс", "Владимир Ленин", "Иосиф Сталин"],
+            "answer": "Карл Маркс"
+        },
+        {
+            "question": "В каком году произошла Октябрьская революция?",
+            "options": ["1905", "1917", "1922", "1941"],
+            "answer": "1917"
+        },
+        {
+            "question": "Кто был первым русским царём?",
+            "options": ["Иван Грозный", "Пётр I", "Александр I", "Николай II"],
+            "answer": "Иван Грозный"
+        },
+        {
+            "question": "В каком году был основан Санкт-Петербург?",
+            "options": ["1703", "1721", "1755", "1801"],
+            "answer": "1703"
+        },
+        {
+            "question": "Кто был главным противником СССР в Холодной войне?",
+            "options": ["Китай", "Германия", "США", "Великобритания"],
+            "answer": "США"
+        },
+        {
+            "question": "В каком году произошло крещение Руси?",
+            "options": ["988", "1054", "1240", "1480"],
+            "answer": "988"
+        },
+        {
+            "question": "Кто был лидером СССР во время Второй мировой войны?",
+            "options": ["Ленин", "Сталин", "Хрущёв", "Брежнев"],
+            "answer": "Сталин"
+        },
+        {
+            "question": "В каком году распался СССР?",
+            "options": ["1985", "1991", "1993", "2000"],
+            "answer": "1991"
+        }
+    ],
+    "Информатика": [
+        {
+            "question": "Что такое алгоритм?",
+            "options": ["Язык программирования", "Последовательность действий", "Устройство компьютера", "Программа"],
+            "answer": "Последовательность действий"
+        },
+        {
+            "question": "Какой язык программирования используется для создания веб-страниц?",
+            "options": ["Python", "Java", "HTML", "C++"],
+            "answer": "HTML"
+        },  
+        {   
+            "question": "Что такое двоичная система счисления?",
+            "options": ["Система счисления с основанием 2", "Система счисления с основанием 10", "Система счисления с основанием 16", "Система счисления с основанием 8"],
+            "answer": "Система счисления с основанием 2"
+        },  
+        {   
+            "question": "Какой тип данных используется для хранения целых чисел в Python?",
+            "options": ["int", "float", "str", "bool"],
+            "answer": "int"
+        },  
+        {   
+            "question": "Что такое операционная система?",
+            "options": ["Программа для создания документов", "Программа для управления ресурсами компьютера", "Язык программирования", "Устройство хранения данных"],
+            "answer": "Программа для управления ресурсами компьютера"
+        },  
+        {   
+            "question": "Какой протокол используется для передачи веб-страниц?",
+            "options": ["FTP", "HTTP", "SMTP", "TCP"],
+            "answer": "HTTP"
+        },  
+        {   
+            "question": "Что такое переменная в программировании?",
+            "options": ["Устройство ввода данных", "Именованная область памяти", "Тип данных", "Функция"],
+            "answer": "Именованная область памяти"
+        },  
+        {   
+            "question": "Какой язык программирования является объектно-ориентированным?",
+            "options": ["C", "Pascal", "Java", "Assembly"],
+            "answer": "Java"
+        },  
+        {   
+            "question": "Что такое база данных?",
+            "options": ["Программа для создания графики", "Структурированный набор данных", "Устройство хранения информации", "Язык программирования"],
+            "answer": "Структурированный набор данных"
+        },  
+        {   
+            "question": "Какой алгоритм сортировки имеет временную сложность O(n log n)?",
+            "options": ["Пузырьковая сортировка", "Быстрая сортировка", "Сортировка вставками", "Сортировка выбором"],
+            "answer": "Быстрая сортировка"
+        }
+    ],
+    "Литература": [
+        {
+            "question": "Кто написал роман 'Война и мир'?",
+            "options": ["Федор Достоевский", "Лев Толстой", "Александр Пушкин", "Иван Тургенев"],
+            "answer": "Лев Толстой"
+        },  
+        {   
+            "question": "Какой жанр у произведения 'Евгений Онегин'?",
+            "options": ["Роман", "Поэма", "Рассказ", "Повесть"],
+            "answer": "Роман в стихах"
+        },  
+        {   
+            "question": "Кто является автором произведения 'Преступление и наказание'?",
+            "options": ["Лев Толстой", "Федор Достоевский", "Антон Чехов", "Николай Гоголь"],
+            "answer": "Федор Достоевский"
+        },  
+        {   
+            "question": "Какое произведение написал Александр Пушкин?",
+            "options": ["'Мертвые души'", "'Герой нашего времени'", "'Капитанская дочка'", "'Отцы и дети'"],
+            "answer": "'Капитанская дочка'"
+        },  
+        {   
+            "question": "Кто является автором пьесы 'Гроза'?",
+            "options": ["Александр Островский", "Антон Чехов", "Иван Тургенев", "Николай Гоголь"],
+            "answer": "Александр Островский"
+        },  
+        {   
+            "question": "Какое произведение принадлежит перу Николая Гоголя?",
+            "options": ["'Обломов'", "'Мертвые души'", "'Отцы и дети'", "'Герой нашего времени'"],
+            "answer": "'Мертвые души'"
+        },  
+        {   
+            "question": "Кто написал стихотворение 'Я помню чудное мгновенье'?",
+            "options": ["Михаил Лермонтов", "Александр Пушкин", "Федор Тютчев", "Афанасий Фет"],
+            "answer": "Александр Пушкин"
+        },  
+        {   
+            "question": "Какое произведение написал Михаил Лермонтов?",
+            "options": ["'Евгений Онегин'", "'Герой нашего времени'", "'Мертвые души'", "'Отцы и дети'"],
+            "answer": "'Герой нашего времени'"
+        },  
+        {   
+            "question": "Кто является автором рассказа 'Человек в футляре'?",
+            "options": ["Лев Толстой", "Федор Достоевский", "Антон Чехов", "Иван Тургенев"],
+            "answer": "Антон Чехов"
+        },  
+        {   
+            "question": "Какое произведение принадлежит перу Ивана Тургенева?",
+            "options": ["'Обломов'", "'Отцы и дети'", "'Мертвые души'", "'Герой нашего времени'"],
+            "answer": "'Отцы и дети'"
+        }   
+    ],
+    "Обществознание": [
+        {
+            "question": "Что является высшей ценностью в Конституции РФ?",
+            "options": ["Государство", "Закон", "Человек, его права и свободы", "Экономика"],
+            "answer": "Человек, его права и свободы"
+        },  
+        {   
+            "question": "Что такое инфляция?",
+            "options": ["Рост цен", "Снижение цен", "Стабильность цен", "Рост производства"],
+            "answer": "Рост цен"
+        },  
+        {   
+            "question": "Что такое демократия?",
+            "options": ["Власть народа", "Власть одного человека", "Власть армии", "Власть богатых"],
+            "answer": "Власть народа"
+        },  
+        {   
+            "question": "Что такое правовое государство?",
+            "options": ["Государство, где правит диктатор", "Государство, где законы стоят выше власти", "Государство без законов", "Государство, где власть принадлежит армии"],
+            "answer": "Государство, где законы стоят выше власти"
+        },  
+        {   
+            "question": "Что такое рынок?",
+            "options": ["Место, где продают овощи", "Система экономических отношений", "Государственный орган", "Банковская система"],
+            "answer": "Система экономических отношений"
+        },  
+        {   
+            "question": "Что такое социальная стратификация?",
+            "options": ["Разделение общества на слои", "Объединение людей в группы", "Политическая система", "Экономический кризис"],
+            "answer": "Разделение общества на слои"
+        },  
+        {   
+            "question": "Что такое гражданское общество?",
+            "options": ["Общество, где все служат в армии", "Общество, где граждане активно участвуют в общественной жизни", "Общество, где нет законов", "Общество, управляемое диктатором"],
+            "answer": "Общество, где граждане активно участвуют в общественной жизни"
+        },  
+        {   
+            "question": "Что такое политическая партия?",
+            "options": ["Группа людей, объединённых общими интересами", "Организация, борющаяся за власть", "Государственный орган", "Экономическая система"],
+            "answer": "Организация, борющаяся за власть"
+        },  
+        {   
+            "question": "Что такое конституция?",
+            "options": ["Основной закон государства", "Документ о правах человека", "Экономический план", "Политическая программа"],
+            "answer": "Основной закон государства"
+        },  
+        {   
+            "question": "Что такое глобализация?",
+            "options": ["Объединение стран в один союз", "Процесс усиления взаимосвязей между странами", "Экономический кризис", "Политическая изоляция"],
+            "answer": "Процесс усиления взаимосвязей между странами"
+        }
+    ],
+    "География": [
+        {
+            "question": "Какой самый большой океан в мире?",
+            "options": ["Атлантический", "Тихий", "Индийский", "Северный Ледовитый"],
+            "answer": "Тихий"
+        },  
+        {   
+            "question": "Какая страна имеет самую длинную береговую линию в мире?",
+            "options": ["Россия", "Канада", "Австралия", "Норвегия"],
+            "answer": "Канада"
+        },  
+        {   
+            "question": "Как называется точка на Земле, находящаяся на расстоянии 90° к северу от экватора?",
+            "options": ["Южный полюс", "Северный полюс", "Географический центр Земли", "Магнитный полюс"],
+            "answer": "Северный полюс"
+        },  
+        {   
+            "question": "Какое название носит самое глубокое место в океане?",
+            "options": ["Бермудский треугольник", "Мariana Trench (Марианская впадина)", "Яма Цейлона", "Экваториальная впадина"],
+            "answer": "Mariana Trench (Марианская впадина)"
+        },  
+        {   
+            "question": "Какой континент полностью окружен океанами?",
+            "options": ["Евразия", "Австралия", "Африка", "Южная Америка"],
+            "answer": "Австралия"
+        },  
+        {   
+            "question": "Какой город является столицей Швеции?",
+            "options": ["Копенгаген", "Стокгольм", "Хельсинки", "Осло"],
+            "answer": "Стокгольм"
+        },  
+        {   
+            "question": "Как называется крупнейшее по площади государство мира?",
+            "options": ["Канада", "Россия", "Китай", "США"],
+            "answer": "Россия"
+        },  
+        {   
+            "question": "Что из перечисленного является рекой?",
+            "options": ["Альпы", "Амазонка", "Антарктида", "Анды"],
+            "answer": "Амазонка"
+        },  
+        {   
+            "question": "Какой полуостров находится между Черным и Азовским морями?",
+            "options": ["Балканский", "Крымский", "Иберийский", "Апеннинский"],
+            "answer": "Крымский"
+        },  
+        {   
+            "question": "Какой процесс приводит к образованию пустынь?",
+            "options": ["Засуха", "Дожди", "Ледниковое покрытие", "Вулканическая активность"],
+            "answer": "Засуха"
+        }
+    ],
+    "Английский": [
+        {
+            "question": "What is the largest ocean in the world?",
+            "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+            "answer": "Pacific"
+        },  
+        {   
+            "question": "Which country has the longest coastline in the world?",
+            "options": ["Russia", "Canada", "Australia", "Norway"],
+            "answer": "Canada"
+        },  
+        {   
+            "question": "What is the point on Earth located 90° north of the equator called?",
+            "options": ["South Pole", "North Pole", "Geographic Center of Earth", "Magnetic Pole"],
+            "answer": "North Pole"
+        },  
+        {   
+            "question": "What is the name of the deepest place in the ocean?",
+            "options": ["Bermuda Triangle", "Mariana Trench", "Sri Lanka Basin", "Equatorial Basin"],
+            "answer": "Mariana Trench"
+        },  
+        {   
+            "question": "Which continent is entirely surrounded by oceans?",
+            "options": ["Eurasia", "Australia", "Africa", "South America"],
+            "answer": "Australia"
+        },  
+        {   
+            "question": "What is the capital city of Sweden?",
+            "options": ["Copenhagen", "Stockholm", "Helsinki", "Oslo"],
+            "answer": "Stockholm"
+        },  
+        {   
+            "question": "Which country is the largest in the world by area?",
+            "options": ["Canada", "Russia", "China", "USA"],
+            "answer": "Russia"
+        },  
+        {   
+            "question": "Which of the following is a river?",
+            "options": ["Alps", "Amazon", "Antarctica", "Andes"],
+            "answer": "Amazon"
+        },  
+        {   
+            "question": "Which peninsula is located between the Black Sea and the Sea of Azov?",
+            "options": ["Balkan", "Crimean", "Iberian", "Apennine"],
+            "answer": "Crimean"
+        },  
+        {   
+            "question": "What process leads to the formation of deserts?",
+            "options": ["Drought", "Rainfall", "Glacial Cover", "Volcanic Activity"],
+            "answer": "Drought"
+        }
+    ],
+    "Немецкий": [
+        {
+            "question": "Welcher ist der größte Ozean der Welt?",
+            "options": ["Atlantischer Ozean", "Pazifischer Ozean", "Indischer Ozean", "Arktischer Ozean"],
+            "answer": "Pazifischer Ozean"
+        },  
+        {   
+            "question": "Welches Land hat die längste Küstenlinie der Welt?",
+            "options": ["Russland", "Kanada", "Australien", "Norwegen"],
+            "answer": "Kanada"
+        },  
+        {   
+            "question": "Wie nennt man den Punkt auf der Erde, der sich 90° nördlich vom Äquator befindet?",
+            "options": ["Südpol", "Nordpol", "Geographischer Mittelpunkt der Erde", "Magnetpol"],
+            "answer": "Nordpol"
+        },  
+        {   
+            "question": "Wie heißt das tiefste Gebiet im Ozean?",
+            "options": ["Bermudadreieck", "Marianen-Tiefe", "Ceylon-Graben", "Äquatorialer Graben"],
+            "answer": "Marianen-Tiefe"
+        },  
+        {   
+            "question": "Welcher Kontinent wird vollständig von Ozeanen umgeben?",
+            "options": ["Eurasien", "Australien", "Afrika", "Südamerika"],
+            "answer": "Australien"
+        },  
+        {   
+            "question": "Was ist die Hauptstadt von Schweden?",
+            "options": ["Kopenhagen", "Stockholm", "Helsinki", "Oslo"],
+            "answer": "Stockholm"
+        },  
+        {   
+            "question": "Welches Land ist das größte auf der Welt in Bezug auf Fläche?",
+            "options": ["Kanada", "Russland", "China", "USA"],
+            "answer": "Russland"
+        },  
+        {   
+            "question": "Was ist ein Fluss unter den folgenden Optionen?",
+            "options": ["Alpen", "Amazonas", "Antarktis", "Anden"],
+            "answer": "Amazonas"
+        },  
+        {   
+            "question": "Welches Halbinsel liegt zwischen dem Schwarzen Meer und dem Asowschen Meer?",
+            "options": ["Balkanhalbinsel", "Krimhalbinsel", "Iberische Halbinsel", "Apenninhalbinsel"],
+            "answer": "Krimhalbinsel"
+        },  
+        {   
+            "question": "Welcher Prozess führt zur Bildung von Wüsten?",
+            "options": ["Dürre", "Regenfälle", "Gletscherbedeckung", "Vulkanische Aktivität"],
+            "answer": "Dürre"
+        }
+    ],
+    "Француский": [
+        {
+            "question": "Quel est l'océan le plus grand du monde ?",
+            "options": ["Océan Atlantique", "Océan Pacifique", "Océan Indien", "Océan Arctique"],
+            "answer": "Océan Pacifique"
+        },  
+        {   
+            "question": "Quel pays a la plus longue côte au monde ?",
+            "options": ["Russie", "Canada", "Australie", "Norvège"],
+            "answer": "Canada"
+        },  
+        {   
+            "question": "Comment s'appelle le point situé à 90° nord de l'équateur ?",
+            "options": ["Pôle Sud", "Pôle Nord", "Centre géographique de la Terre", "Pôle magnétique"],
+            "answer": "Pôle Nord"
+        },  
+        {   
+            "question": "Comment s'appelle le point le plus profond des océans ?",
+            "options": ["Triangle des Bermudes", "Fosse des Mariannes", "Bassin du Ceylan", "Fosse équatoriale"],
+            "answer": "Fosse des Mariannes"
+        },  
+        {   
+            "question": "Quel continent est entièrement entouré par des océans ?",
+            "options": ["Eurasie", "Australie", "Afrique", "Amérique du Sud"],
+            "answer": "Australie"
+        },  
+        {   
+            "question": "Quelle est la capitale de la Suède ?",
+            "options": ["Copenhague", "Stockholm", "Helsinki", "Oslo"],
+            "answer": "Stockholm"
+        },  
+        {   
+            "question": "Quel est le plus grand pays du monde en termes de superficie ?",
+            "options": ["Canada", "Russie", "Chine", "États-Unis"],
+            "answer": "Russie"
+        },  
+        {   
+            "question": "Lequel des éléments suivants est une rivière ?",
+            "options": ["Alpes", "Amazone", "Antarctique", "Andes"],
+            "answer": "Amazone"
+        },  
+        {   
+            "question": "Quelle péninsule se trouve entre la mer Noire et la mer d'Azov ?",
+            "options": ["Péninsule des Balkans", "Péninsule du Crime", "Péninsule ibérique", "Péninsule des Apennins"],
+            "answer": "Péninsule du Crime"
+        },  
+        {   
+            "question": "Quel processus conduit à la formation des déserts ?",
+            "options": ["Sécheresse", "Pluies", "Couverture glaciaire", "Activité volcanique"],
+            "answer": "Sécheresse"
+        }
+    ],
+    "Испанский": [
+        {
+            "question": "¿Cuál es el océano más grande del mundo?",
+            "options": ["Océano Atlántico", "Océano Pacífico", "Océano Índico", "Océano Ártico"],
+            "answer": "Océano Pacífico"
+        },  
+        {   
+            "question": "¿Qué país tiene la costa más larga del mundo?",
+            "options": ["Rusia", "Canadá", "Australia", "Noruega"],
+            "answer": "Canadá"
+        },  
+        {   
+            "question": "¿Cómo se llama el punto situado a 90° al norte del ecuador?",
+            "options": ["Polo Sur", "Polo Norte", "Centro geográfico de la Tierra", "Polo magnético"],
+            "answer": "Polo Norte"
+        },  
+        {   
+            "question": "¿Cómo se llama el lugar más profundo de los océanos?",
+            "options": ["Triángulo de las Bermudas", "Fosa de las Marianas", "Cuenca de Ceilán", "Fosa ecuatorial"],
+            "answer": "Fosa de las Marianas"
+        },  
+        {   
+            "question": "¿Qué continente está completamente rodeado por océanos?",
+            "options": ["Eurasia", "Australia", "África", "Sudamérica"],
+            "answer": "Australia"
+        },  
+        {   
+            "question": "¿Cuál es la capital de Suecia?",
+            "options": ["Copenhague", "Estocolmo", "Helsinki", "Oslo"],
+            "answer": "Estocolmo"
+        },  
+        {   
+            "question": "¿Qué país es el más grande del mundo en términos de área?",
+            "options": ["Canadá", "Rusia", "China", "Estados Unidos"],
+            "answer": "Rusia"
+        },  
+        {   
+            "question": "¿Cuál de los siguientes es un río?",
+            "options": ["Alpes", "Amazonas", "Antártida", "Andes"],
+            "answer": "Amazonas"
+        },  
+        {   
+            "question": "¿Qué península se encuentra entre el Mar Negro y el Mar de Azov?",
+            "options": ["Península de los Balcanes", "Península de Crimea", "Península Ibérica", "Península de los Apeninos"],
+            "answer": "Península de Crimea"
+        },  
+        {   
+            "question": "¿Qué proceso lleva a la formación de desiertos?",
+            "options": ["Sequía", "Lluvias", "Cobertura glaciar", "Actividad volcánica"],
+            "answer": "Sequía"
+        }
+    ]
+}      
