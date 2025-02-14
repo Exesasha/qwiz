@@ -34,23 +34,23 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT), pygame.RESIZABLE)
 pygame.display.set_caption("Викторина")
 
 # Загрузка иконки для окна
-img = pygame.image.load('The Jedi Force/data/icon.png')
+img = pygame.image.load('data/icon.png')
 pygame.display.set_icon(img)
 
 # Загрузка звуковых файлов
-right = pygame.mixer.Sound("The Jedi Force/data/правильно.mp3")
-wrong = pygame.mixer.Sound("The Jedi Force/data/неправильно.mp3")
-playsound = pygame.mixer.Sound("The Jedi Force/data/ход_игры.mp3")
-click = pygame.mixer.Sound("The Jedi Force/data/клик.mp3")
+right = pygame.mixer.Sound("data/правильно.mp3")
+wrong = pygame.mixer.Sound("data/неправильно.mp3")
+playsound = pygame.mixer.Sound("data/ход_игры.mp3")
+click = pygame.mixer.Sound("data/клик.mp3")
 
 # Загрузка вопросов из JSON-файла
-with open("The Jedi Force/data/questions.json", "r", encoding='utf-8') as file:
+with open("data/questions.json", "r", encoding='utf-8') as file:
     data = json.load(file)
 
 
 # Функция для отрисовки текста на экране
 def write_text(type1, content, size, color, x, y, transfer_type=0, options=0):
-    font = pygame.font.Font(f'The Jedi Force/data/{type1}', size)
+    font = pygame.font.Font(f'data/{type1}', size)
     if transfer_type != 0:
         words = content.split(' ')
         result = []
